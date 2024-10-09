@@ -1,0 +1,3 @@
+The on_press function is called when a key is pressed. It logs the key pressed to the keylog.txt file.
+The on_release function is called when a key is released. It stops the keylogger when the 'esc' key is pressed.
+The keyboard.Listener class is used to collect events until the keylogger is stopped.
